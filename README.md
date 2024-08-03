@@ -1,6 +1,6 @@
 # Property Scraper
 
-This Python script scrapes property listings from BuyRentKenya.com, filters them based on their location within Nairobi, and saves the data to a CSV file.
+This Python script scrapes property listings from BuyRentKenya.com, which filters them based on their location within Nairobi, and saves the data to a CSV file.
 
 ## Requirements
 
